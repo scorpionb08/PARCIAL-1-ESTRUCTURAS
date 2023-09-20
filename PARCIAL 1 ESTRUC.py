@@ -1,6 +1,4 @@
-from ast import While
-
-
+# Daniel Calderon Bonilla 2222622
 A=int(input("ingrese el primer numero de 1-258:\n"))
 B=int(input("ingrese el segundo numero de 1-258:\n"))
 C=int(input("ingrese el tercer numero de 1-258:\n"))
